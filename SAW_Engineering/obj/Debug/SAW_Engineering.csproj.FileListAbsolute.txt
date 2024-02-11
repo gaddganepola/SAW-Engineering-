@@ -1,0 +1,17 @@
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\bin\Debug\SAW_Engineering.exe.config
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\bin\Debug\SAW_Engineering.exe
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\bin\Debug\SAW_Engineering.pdb
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\obj\Debug\SAW_Engineering.csproj.AssemblyReference.cache
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\obj\Debug\SAW_Engineering.Properties.Resources.resources
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\obj\Debug\SAW_Engineering.csproj.GenerateResource.cache
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\obj\Debug\SAW_Engineering.csproj.CoreCompileInputs.cache
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\obj\Debug\SAW_Engineering.exe
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\obj\Debug\SAW_Engineering.pdb
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\obj\Debug\SAW_Engineering.login.resources
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\obj\Debug\SAW_Engineering.dashboard.resources
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\obj\Debug\SAW_Engineering.project.resources
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\obj\Debug\SAW_Engineering.finance.resources
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\obj\Debug\SAW_Engineering.transport.resources
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\obj\Debug\SAW_Engineering.inventory.resources
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\obj\Debug\SAW_Engineering.manufacturing.resources
+C:\Users\dinet\source\repos\SAW_Engineering\SAW_Engineering\obj\Debug\SAW_Engineering.setup.resources
